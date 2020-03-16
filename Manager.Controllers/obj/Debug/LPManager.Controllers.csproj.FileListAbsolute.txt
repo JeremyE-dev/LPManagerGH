@@ -1,0 +1,12 @@
+C:\Users\Jeremy\source\repos\Manager.Controllers\bin\Debug\Manager.Controllers.dll
+C:\Users\Jeremy\source\repos\Manager.Controllers\bin\Debug\Manager.Controllers.pdb
+C:\Users\Jeremy\source\repos\Manager.Controllers\bin\Debug\LPManager.Models.dll
+C:\Users\Jeremy\source\repos\Manager.Controllers\bin\Debug\LPManager.Models.pdb
+C:\Users\Jeremy\source\repos\Manager.Controllers\obj\Debug\LPManager.Controllers.csprojAssemblyReference.cache
+C:\Users\Jeremy\source\repos\Manager.Controllers\obj\Debug\LPManager.Controllers.csproj.CopyComplete
+C:\Users\Jeremy\source\repos\Manager.Controllers\obj\Debug\Manager.Controllers.dll
+C:\Users\Jeremy\source\repos\Manager.Controllers\obj\Debug\Manager.Controllers.pdb
+C:\Users\Jeremy\source\repos\Manager.Controllers\bin\Debug\LPManager.Data.dll
+C:\Users\Jeremy\source\repos\Manager.Controllers\bin\Debug\LPManager.Data.pdb
+C:\Users\Jeremy\source\repos\Manager.Controllers\bin\Debug\LPManager.View.dll
+C:\Users\Jeremy\source\repos\Manager.Controllers\bin\Debug\LPManager.View.pdb

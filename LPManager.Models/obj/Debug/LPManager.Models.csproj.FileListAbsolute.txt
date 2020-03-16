@@ -1,0 +1,5 @@
+C:\Users\Jeremy\source\repos\LPManager.Models\bin\Debug\LPManager.Models.dll
+C:\Users\Jeremy\source\repos\LPManager.Models\bin\Debug\LPManager.Models.pdb
+C:\Users\Jeremy\source\repos\LPManager.Models\obj\Debug\LPManager.Models.csprojAssemblyReference.cache
+C:\Users\Jeremy\source\repos\LPManager.Models\obj\Debug\LPManager.Models.dll
+C:\Users\Jeremy\source\repos\LPManager.Models\obj\Debug\LPManager.Models.pdb

@@ -1,0 +1,8 @@
+C:\Users\Jeremy\source\repos\LPManager.View\bin\Debug\LPManager.View.dll
+C:\Users\Jeremy\source\repos\LPManager.View\bin\Debug\LPManager.View.pdb
+C:\Users\Jeremy\source\repos\LPManager.View\bin\Debug\LPManager.Models.dll
+C:\Users\Jeremy\source\repos\LPManager.View\bin\Debug\LPManager.Models.pdb
+C:\Users\Jeremy\source\repos\LPManager.View\obj\Debug\LPManager.View.csprojAssemblyReference.cache
+C:\Users\Jeremy\source\repos\LPManager.View\obj\Debug\LPManager.View.csproj.CopyComplete
+C:\Users\Jeremy\source\repos\LPManager.View\obj\Debug\LPManager.View.dll
+C:\Users\Jeremy\source\repos\LPManager.View\obj\Debug\LPManager.View.pdb
